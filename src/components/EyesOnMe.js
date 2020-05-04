@@ -1,4 +1,4 @@
 // Code EyesOnMe Component Here
 import React, { Component } from 'react';
 
-export default EyesOnMe 
+export default class EyesOnMe 
